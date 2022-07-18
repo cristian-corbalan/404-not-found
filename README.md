@@ -6,6 +6,10 @@
 </div>
 
   <h3>
+    <a href="https://cristian-corbalan.github.io/404-not-found/">
+      Demo
+    </a>
+    <span>|</span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
@@ -29,7 +33,7 @@
 
 This repository consists in the creation of a 404 error page. This is built with HTML and CSS, it is a simple project, but it helped me to practice my skills.
 
-You can see the result in your browser by downloading the code from this repository and opening the **index.html** file
+You can see the result in [this link](https://cristian-corbalan.github.io/404-not-found/) or in your browser by downloading the code from this repository and opening the **index.html** file
 
 ### Built With
 
